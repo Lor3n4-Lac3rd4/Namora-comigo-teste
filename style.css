@@ -1,0 +1,26 @@
+body{
+    background: rgb(67, 224, 203);
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+.btn {
+    background: black;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 50px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background: pink;
+    transition: 1s;
+}
